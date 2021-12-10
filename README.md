@@ -1,56 +1,4 @@
 
-
-<h3 align="center">
-    Ready to use method
-</h3>
-
-<p align="center">
-    A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/YukkiRobot"> YukkiMusicBot </a> |
-    <a href="https://t.me/OfficialYukkiSupport"> YukkiSupport </a>
-</p>
-
-<h2 align="center">
-   Requirements
-</h2>
-
-<p align="center">
-    <a href="https://www.python.org/downloads/release/python-390/"> Python3.9 </a> |
-    <a href="https://docs.pyrogram.org/intro/setup#api-keys"> Telegram API Key </a> |
-    <a href="https://t.me/botfather"> Telegram Bot Token </a> |
-    <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URI </a>
-</p>
-
-<h2 align="center">
-   Stay Up-to-Date
-</h2>
-
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
-
-
-
-<h2 align="center">
-   Install Locally Or On A VPS
-</h2>
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install -U -r requirements.txt
-shikhar@MacBook~ $ cp sample.env .env
-```
-
-<h3 align="center">
-    Edit <b>.env</b> with your own values and Run Bot
-</h3>
-
-```console
-shikhar@MacBook~ $ bash start
-```
-![alt text](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/screen.png)
-
-
 <h2 align="center">
    Other Deployment Methods
 </h2>
@@ -99,28 +47,3 @@ shikhar@MacBook~ $ python3 gen_session.py
 12. `SUPPORT_CHANNEL` : Support Channel Link ( Leave blank if you don't have one)
 13. `ASSISTANT_PREFIX` : Prefix for Assistant Commands
 
-
-<h2 align="center">
-   Contact
-</h2>
-
-<p align="center">
-<a href="https://t.me/OfficialYukki"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/NotReallyShikhar"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
-<a href="https://t.me/OfficialYukkiSupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
-</p>
-
-
-
-## License
-
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
